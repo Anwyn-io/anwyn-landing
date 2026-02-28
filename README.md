@@ -21,4 +21,4 @@ In the current DePIN landscape, users often trade personal privacy for network r
 - **Phase 3:** Pilot launch for World Mobile AirNode operators.
 
 ---
-*Built for the Midnight Build Club.*
+*Built for the Midnight Network.*
